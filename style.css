@@ -208,9 +208,6 @@ section .title::after{
     background: none;
 }
 /* about section styling */
-.about .title::after{
-   
-}
 .about .about-content .left{
     width: 45%;
 }
@@ -296,9 +293,6 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 /* skills section styling */
-.skills .title::after{
-   
-}
 .skills .skills-content .column{
     width: calc(50% - 30px);
 }
@@ -369,9 +363,6 @@ section .title::after{
     width: 70%;
 }
 /* teams section styling */
-.teams .title::after{
-   
-}
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
@@ -431,9 +422,6 @@ section .title::after{
     background: crimson!important;
 }
 /* contact section styling */
-.contact .title::after{
-  
-}
 .contact .contact-content .column{
     width: calc(50% - 30px);
 }
