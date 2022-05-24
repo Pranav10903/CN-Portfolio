@@ -90,7 +90,7 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #171717;
+    color: grey;
     font-size: 35px;
     font-weight: 600;
     margin-left: 65 px;
